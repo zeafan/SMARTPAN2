@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linear"
+    android:background="@drawable/draw1"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15sp"
+        android:layout_marginLeft="15sp"
+        android:padding="5sp"
+        android:id="@+id/txt_name"
+        android:textSize="22sp"
+        android:textColor="#fff"
+        android:background="@drawable/contact_draw1"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="15sp"
+        android:layout_marginLeft="15sp"
+        android:padding="5sp"
+        android:id="@+id/txt_number"
+        android:textSize="22sp"
+        android:textColor="#fff"
+        android:background="@drawable/contact_draw2"
+        />
+</LinearLayout>

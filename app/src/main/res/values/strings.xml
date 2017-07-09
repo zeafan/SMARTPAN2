@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SMARTPAN</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password </string>
+    <string name="login">Login</string>
+    <string name="signin">Sign In</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="name">Name</string>
+    <string name="mail">Mail</string>
+    <string name="mobile">Mobile</string>
+    <string name="gender">Gender :</string>
+    <string name="male">Male</string>
+    <string name="famle">Female</string>
+    <string name="facebook_app_id">318904171867782</string>
+    <string name="fb_login_protocol_scheme">fb318904171867782</string>
+    <string name="check_email">Check Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

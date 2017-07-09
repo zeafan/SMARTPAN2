@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1000963520695",
+    "firebase_url": "https://fir-uiandroid-6893e.firebaseio.com",
+    "project_id": "fir-uiandroid-6893e",
+    "storage_bucket": "fir-uiandroid-6893e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000963520695:android:c65c6e9540fc1c1e",
+        "android_client_info": {
+          "package_name": "com.app.mohamedgomaa.firebaseuiandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000963520695-1m8g59hd6g5vlj6h47d1vc3bcskj6uch.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.mohamedgomaa.firebaseuiandroid",
+            "certificate_hash": "e5ef75001cb61d42294aacccfe05e25597206d59"
+          }
+        },
+        {
+          "client_id": "1000963520695-aoeu8iinbfn303d0qf60fiarmshbk21c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6fxydJEs5wcdKizUlnTSolOllrLVkx6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000963520695-aoeu8iinbfn303d0qf60fiarmshbk21c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000963520695:android:b317830de8adffb4",
+        "android_client_info": {
+          "package_name": "com.app.mohamedgomaa.smartpan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000963520695-gjs5l8ffprtjk8786hh8r1si2vriac0l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.mohamedgomaa.smartpan",
+            "certificate_hash": "e5ef75001cb61d42294aacccfe05e25597206d59"
+          }
+        },
+        {
+          "client_id": "1000963520695-aoeu8iinbfn303d0qf60fiarmshbk21c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6fxydJEs5wcdKizUlnTSolOllrLVkx6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000963520695-aoeu8iinbfn303d0qf60fiarmshbk21c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
